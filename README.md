@@ -1,4 +1,4 @@
-# Salman's Data Science/Machine Learning Portfolio
+# Salman's Data Science/Machine Learning Projects
 Data Science/Machine Learning portfolio
 
 
